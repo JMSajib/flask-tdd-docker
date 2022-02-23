@@ -1,2 +1,4 @@
 flask
 flask-restx
+Flask-SQLAlchemy
+psycopg2-binary
