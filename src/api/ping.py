@@ -1,4 +1,3 @@
-import imp
 from flask import Blueprint
 from flask_restx import Resource, Api
 
